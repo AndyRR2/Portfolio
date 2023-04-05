@@ -1,0 +1,4 @@
+En este primer año inicio con conocimientos nulos de programacion.
+Contiene mis primeros trabajos diseñando diagramas de flujos para problemas simples y a continuacion comienzo a programar en C
+interpretando esos diagramas de flujos antes diseñados, y otros.
+
